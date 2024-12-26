@@ -1,2 +1,2 @@
-# terraform-three-tier-vpc-arch
-terraform 3 tier AWS VPC architecture 
+# Create AWS Three Tier VPC Architecture
+
