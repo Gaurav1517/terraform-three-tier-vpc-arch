@@ -1,4 +1,4 @@
-# Creating AWS Three Tier VPC Architecture Infra-structure As Code (IAC) using Terraform
+# AWS Three-Tier VPC Architecture with Terraform: Infrastructure as Code (IaC).
 
 ![snap-vpc-3-tier-architecture](Snap-vpc-3-tier-architecture/vcp-3-tier-architecture.png)
 
